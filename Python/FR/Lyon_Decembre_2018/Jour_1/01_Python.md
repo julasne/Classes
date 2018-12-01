@@ -74,3 +74,7 @@ Hello World!
 - Faire un fichier `ex0.py` qui écrit `Bonjour`
 - Faire un fichier `ex1.py` qui écrit `42`
     - Deux facons de faire
+
+Notes:
+
+Montrer la resolution en live coding
