@@ -2,6 +2,16 @@
 
 ---
 
+### Qu'est ce que Python?
+
+Python est un langage de programmation, dont la première version est sortie en 1991.
+
+Créé par Guido van Rossum, il a voyagé du Macintosh de son créateur, qui travaillait à cette époque au Centrum voor Wiskunde en Informatica aux Pays-Bas, jusqu'à se voir associer une organisation à but non lucratif particulièrement dévouée, la Python Software Foundation, créée en 2001.
+
+Ce langage a été baptisé ainsi en hommage à la troupe de comiques les « Monty Python ».
+
+---
+
 ### L'intepreteur CLI Python - Mode interactif
 
 ```bash
@@ -66,6 +76,8 @@ Hello World!
 
 - L'interpreteur Python a ouvert votre fichier `hello.py`
 - L'a lu ligne par ligne (Comme dans le mode interactif)
+
+L'interpreteur interactif est comme si on lancais un fichier mais en ligne par ligne manuellement
 
 ---
 
