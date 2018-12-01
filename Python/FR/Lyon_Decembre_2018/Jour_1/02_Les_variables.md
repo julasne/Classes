@@ -91,7 +91,7 @@ Hello World
 
 ---
 
-### Note sur l'interpreteur python et l'affichage des variables
+### Note sur l'interpreteur Python et l'affichage des variables
 
 Dans l'interpreteur en mode interactif, ecrire juste le nom de la variable affichera sa valeur.
 
@@ -99,13 +99,13 @@ Essayez
 
 ---
 
-### Note sur l'interpreteur python et l'affichage des variables
+### Note sur l'interpreteur Python et l'affichage des variables
 
 Maintenant faites la meme chose dans un fichier `.py` et executez le
 
 ---
 
-### Note sur l'interpreteur python et l'affichage des variables
+### Note sur l'interpreteur Python et l'affichage des variables
 
 L'interpreteur Python en mode interactif est un outil de `débug` et permets de tester des choses.
 Pour afficher une variable dans un script, il **faut** utiliser `print()`

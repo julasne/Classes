@@ -11,7 +11,7 @@
 
 - Jules Lasne
 - Étudiant a l'école 42
-- Freelance python/backend
+- Freelance Python/backend
 - DJ et chef scout
 
 Notes:
@@ -28,7 +28,7 @@ Vous n'etes que 4, donc pas besoin de lever la main
 
 ## Planning de la semaine
 
-- Découvrir le language python
+- Découvrir le language Python
 - La programmation orientée objet
 - Le Framework Django
 
