@@ -123,3 +123,17 @@ prenom olivier
 
 Note:
 Pour récupérer les clés et les valeurs en même temps, on utilise la méthode items qui retourne un tuple.
+
+---
+
+### Exercises
+
+- Faire un script python qui ajoute une entree a un dictionnaire
+    - Dict de depart : `{0: 10, 1: 20}`
+    - Resultat attendu : `{0: 10, 1: 20, 2: 30}`
+- Faire un script python qui rassemble trois dictionnaires dans un seul
+- Faire un script Python qui verifie si une cle est deja dans un dictionnaire
+- Faire un script Python qui itere a travers le dictionnaire et ecrit les cles et valeurs lignes par ligne
+- Faire un script Python qui supprime une entree d'un dictionnaire
+- Script qui supprime les duplicats
+- Scripts qui verifie si le dict est vide
