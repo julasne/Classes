@@ -10,7 +10,6 @@
 <img src="jlasne.jpg" width="20%" height="20%" alt="Jules Lasne">
 
 - Jules Lasne
-- Étudiant a l'école 42
 - Freelance Python/backend
 - DJ et chef scout
 
