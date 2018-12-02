@@ -12,8 +12,6 @@
 
 ### Types simples
 
-- `long`
-    - Entier compris entre −∞ et -2 147 483 647 ou entre 2 147 483 648 et +∞ 
 - `float`
     - Valeur spécifiée avec un point dans le programme (exemple : a = 2.0) permettant une approximation de nombre réel
 - `complex`
@@ -62,9 +60,6 @@ True
 
 ### Tout est objet
 
-- Entier long
-    - `long`
-    - Entier compris entre −∞ et -2 147 483 647 ou entre 2 147 483 648 et +∞
 - Nombre à virgule flottante
     - `float`
     - Valeur spécifiée avec un point dans le programme (exemple : a = 2.0) permettant une approximation de nombre réel

@@ -72,20 +72,20 @@ Hello World!
 
 ---
 
-### Ce qui c'est passé :
+### Ce qui s'est passé :
 
 - L'interpreteur Python a ouvert votre fichier `hello.py`
 - L'a lu ligne par ligne (Comme dans le mode interactif)
 
-L'interpreteur interactif est comme si on lancais un fichier mais en ligne par ligne manuellement
+L'interpreteur interactif est comme si on lancait un fichier mais en ligne par ligne manuellement
 
 ---
 
-### Exercises :
+### Exercices :
 
 - Faire un fichier `ex0.py` qui écrit `Bonjour`
 - Faire un fichier `ex1.py` qui écrit `42`
-    - Deux facons de faire
+    - Deux façons de faire
 
 Notes:
 

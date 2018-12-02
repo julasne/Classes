@@ -132,6 +132,18 @@ Sinon rien ne ce passera.
 - Créer une variable qui contiens un `int` et ecrire le resultat de cette variable soustrait à `42`
 - Créer une variable qui contiens une `string` et ecrire le resultat de cette variable ajoutée à `"OK"`
 
+---
+
+### Exercices
+
+- Décrivez le plus clairement et le plus complètement possible ce qui se
+passe à chacune des trois lignes de l'exemple ci-dessous :
+    - `>>> largeur = 20`
+    - `>>> hauteur = 5 * 9.3`
+    - `>>> largeur * hauteur` -> `930`
+
+- Assignez les valeurs respectives 3, 5, 7 à trois variables a, b, c.
+    - Effectuez l'opération a - b/c.
 Notes:
 Montrer `var +=1` et `var = var - 1`
 
