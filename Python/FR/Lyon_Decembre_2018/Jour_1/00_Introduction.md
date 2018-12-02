@@ -17,24 +17,24 @@
 Notes:
 Et vous ?
 
-Prénom age role deja developpé ?
+Prénom age rôle déjà développé ?
 
 N'hésitez pas a me poser des questions n'importe quand.
 
 
-Vous n'etes que 4, donc pas besoin de lever la main
+Vous n’êtes que 4, donc pas besoin de lever la main
 
 ---
 
 ## Planning de la semaine
 
-- Découvrir le language Python
+- Découvrir le langage Python
 - La programmation orientée objet
 - Le Framework Django
 
 Notes:
 
-C'est un planning très raccourci. Il y a au total 23 modules parmis lesquels nous travaillerons.
+C'est un planning très raccourci. Il y a au total 23 modules parmi lesquels nous travaillerons.
 
 ---
 
@@ -42,7 +42,7 @@ C'est un planning très raccourci. Il y a au total 23 modules parmis lesquels no
 
 - Petit partie théorique
   - découvre une nouvelle notion
-- Exercises pratique
+- Exercices pratique
 
 ---
 

@@ -11,7 +11,7 @@ afin de pouvoir l'utiliser à plusieurs reprises et faire des calculs un peu plu
 
 ---
 
-### Comment ca marche ?
+### Comment ça marche ?
 
 Le plus simplement du monde. Vous allez dire à Python :
 
@@ -30,7 +30,7 @@ En Python, pour donner une valeur à une variable, il suffit d'écrire `nom_de_l
 On peux y stocker:
 
 - Des `str`
-    - `str` en Python, ou `string` en anglais, signifie une chaine de charactere (ce qui est entre `'` ou `"`)
+    - `str` en Python, ou `string` en anglais, signifie une chaine de caractère (ce qui est entre `'` ou `"`)
 - Des `int`
     - `int` en Python, ou `integer` en anglais, corresponds a un nombre entier
 - Et bien d'autres que nous allons découvrir par la suite
@@ -72,7 +72,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ---
 
-### Affichier une variable
+### Afficher une variable
 
 ```bash
 $ python3 
@@ -91,23 +91,23 @@ Hello World
 
 ---
 
-### Note sur l'interpreteur Python et l'affichage des variables
+### Note sur l’interpréteur Python et l'affichage des variables
 
-Dans l'interpreteur en mode interactif, ecrire juste le nom de la variable affichera sa valeur.
+Dans l’interpréteur en mode interactif, écrire juste le nom de la variable affichera sa valeur.
 
 Essayez
 
 ---
 
-### Note sur l'interpreteur Python et l'affichage des variables
+### Note sur l’interpréteur Python et l'affichage des variables
 
-Maintenant faites la meme chose dans un fichier `.py` et executez le
+Maintenant faites la même chose dans un fichier `.py` et exécutez le
 
 ---
 
-### Note sur l'interpreteur Python et l'affichage des variables
+### Note sur l’interpréteur Python et l'affichage des variables
 
-L'interpreteur Python en mode interactif est un outil de `débug` et permets de tester des choses.
+L’interpréteur Python en mode interactif est un outil de `débug` et permets de tester des choses.
 Pour afficher une variable dans un script, il **faut** utiliser `print()`
 
 Sinon rien ne ce passera. 
@@ -127,10 +127,10 @@ Sinon rien ne ce passera.
 
 ### Exercices
 
-- Créer une variable qui contiens une `string` et l'ecrire
-- Créer une variable qui contiens un `int` et l'ecrire
-- Créer une variable qui contiens un `int` et ecrire le resultat de cette variable soustrait à `42`
-- Créer une variable qui contiens une `string` et ecrire le resultat de cette variable ajoutée à `"OK"`
+- Créer une variable qui contiens une `string` et l’écrire
+- Créer une variable qui contiens un `int` et l’écrire
+- Créer une variable qui contiens un `int` et écrire le résultat de cette variable soustrait à `42`
+- Créer une variable qui contiens une `string` et écrire le résultat de cette variable ajoutée à `"OK"`
 
 ---
 

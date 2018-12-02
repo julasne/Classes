@@ -27,7 +27,7 @@ Que se passe-t-il si la valeur était inférieure à 5?
 Note:
  Cette notion est l'une des plus importante en programmation. L'idée est de dire que si telle variable a telle valeur alors faire cela sinon cela.
 
-Prenon un exemple, on va donner une valeur à une variable et si cette valeur est supérieur à 5, alors on va incrémenter la valeur de 1 
+Prenons un exemple, on va donner une valeur à une variable et si cette valeur est supérieur à 5, alors on va incrémenter la valeur de 1 
 
 On remarque que si la condition n'est pas remplie, les instructions dans la structure conditionnelle sont ignorées.
 
@@ -101,7 +101,7 @@ On désire écrire 100 fois cette phrase:
 
 " Je ne dois pas poser une question sans lever la main "
 
-Ecrire à la main prend beaucoup de temps et beaucoup de temps x 100 c'est vraiment beaucoup de temps, et peu fiable, même pour les chanceux qui connaissent le copier-coller. Et un bon programmeur est toujours un peu fainéant perfectionniste, il cherchera la manière la plus élégante de ne pas répéter du code. 
+Écrire à la main prend beaucoup de temps et beaucoup de temps x 100 c'est vraiment beaucoup de temps, et peu fiable, même pour les chanceux qui connaissent le copier-coller. Et un bon programmeur est toujours un peu fainéant perfectionniste, il cherchera la manière la plus élégante de ne pas répéter du code. 
 
 ---
 

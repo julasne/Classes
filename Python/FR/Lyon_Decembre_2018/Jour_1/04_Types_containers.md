@@ -19,7 +19,7 @@ Variable dans laquelle on peux mettre plusieurs variables ou valeurs
 
 ### Ajouter une valeur a une liste
 
-La methode `append()`
+La méthode `append()`
 
 ```bash
 >>> liste = []
@@ -28,7 +28,7 @@ La methode `append()`
 >>> liste.append(1)
 >>> liste
 [1]
->>> liste.append("ok")
+>>> liste.append("OK")
 >>> liste
 [1, 'ok']
 ```
@@ -37,7 +37,7 @@ La methode `append()`
 
 ### Afficher une seule valeur d'une liste
 
-Une liste peut etre accedée grace a son index. Il commence a `0`:
+Une liste peut être accédée g race a son index. Il commence a `0`:
 ```bash
 >>> liste = ["a","d","m"]
 >>> liste[0]
@@ -102,9 +102,9 @@ Il est possible de compter le nombre d'items d'une liste avec la fonction len .
 
 ---
 
-### Compter le nombre d'occurences d'une valeur
+### Compter le nombre d’occurrences d'une valeur
 
-Pour connaitre le nombre d'occurences d'une valeur dans une liste, vous pouvez utiliser la méthode count .
+Pour connaitre le nombre d’occurrences d'une valeur dans une liste, vous pouvez utiliser la méthode count .
 
 ```
 >>> liste = ["a","a","a","b","c","c"]
@@ -134,11 +134,11 @@ La méthode index vous permet de connaitre la position de l'item cherché.
 >>> liste = [1, 10, 100, 250, 500]
 >>> liste[0]
 1
->>> liste[-1] # Cherche la dernière occurence
+>>> liste[-1] # Cherche la dernière occurrence
 500
 >>> liste[-4:] # Affiche les 4 dernières occurrences
 [500, 250, 100, 10]
->>> liste[:] # Affiche toutes les occurences
+>>> liste[:] # Affiche toutes les occurrences
 [1, 10, 100, 250, 500]
 >>> liste[:] = [] # vide la liste
 []
@@ -170,7 +170,7 @@ True
 False
 ```
 
-<sub>Hint: Ca nous servira plus tard pour les conditions</sub>
+<sub>Hint: La nous servira plus tard pour les conditions</sub>
 
 ---
 
@@ -187,7 +187,7 @@ La fonction range génère une liste composée d'une simple suite arithmétique.
 
 ### Agrandir une liste par une liste
 
-Pour mettre bout à bout deux listes, vous pouvez utiliser la méthode extend
+Pour mettre bout à bout deux listes, vous pouvez utiliser la méthode ex tend
 
 ```bash
 >>> x = [1, 2, 3, 4]
@@ -210,7 +210,7 @@ Vous pouvez additionner deux listes pour les combiner ensemble en utilisant l'op
 [1, 2, 3, 4, 5, 6]
 ```
 
-Vous pouvez même mutiplier une liste:
+Vous pouvez même multiplier une liste:
 
 ```bash
 >>> x = [1, 2]
@@ -226,7 +226,7 @@ Ce qui peut être utile pour initialiser une liste:
 
 ---
 
-### Et les strings dans tout ca ?
+### Et les strings dans tout ça ?
 
 Une string est en faite une liste déguisée! La preuve:
 ```bash
@@ -242,7 +242,7 @@ Une string est en faite une liste déguisée! La preuve:
 
 ---
 
-### Exercises
+### Exercices
 
 - hackingscience.com
     - Exercices 1, 2, 3, 7, 9, 11, 12, 14, 17
