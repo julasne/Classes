@@ -25,14 +25,14 @@ En Python, pour donner une valeur à une variable, il suffit d'écrire `nom_de_l
 
 ---
 
-### Qu'est ce que on peux faire avec ?
+### Qu'est ce que on peut faire avec ?
 
-On peux y stocker:
+On peut y stocker:
 
 - Des `str`
-    - `str` en Python, ou `string` en anglais, signifie une chaine de caractère (ce qui est entre `'` ou `"`)
+    - `str` en Python, ou `string` en anglais, signifie une chaine de caractères (ce qui est entre `'` ou `"`)
 - Des `int`
-    - `int` en Python, ou `integer` en anglais, corresponds a un nombre entier
+    - `int` en Python, ou `integer` en anglais, correspond à un nombre entier
 - Et bien d'autres que nous allons découvrir par la suite
 
 ---
@@ -101,16 +101,16 @@ Essayez
 
 ### Note sur l’interpréteur Python et l'affichage des variables
 
-Maintenant faites la même chose dans un fichier `.py` et exécutez le
+Maintenant faites la même chose dans un fichier `.py` et exécutez-le
 
 ---
 
 ### Note sur l’interpréteur Python et l'affichage des variables
 
-L’interpréteur Python en mode interactif est un outil de `débug` et permets de tester des choses.
+L’interpréteur Python en mode interactif est un outil de `débug` et permet de tester des choses.
 Pour afficher une variable dans un script, il **faut** utiliser `print()`
 
-Sinon rien ne ce passera. 
+Sinon rien ne se passera. 
 
 ---
 
@@ -127,10 +127,10 @@ Sinon rien ne ce passera.
 
 ### Exercices
 
-- Créer une variable qui contiens une `string` et l’écrire
-- Créer une variable qui contiens un `int` et l’écrire
-- Créer une variable qui contiens un `int` et écrire le résultat de cette variable soustrait à `42`
-- Créer une variable qui contiens une `string` et écrire le résultat de cette variable ajoutée à `"OK"`
+- Créer une variable qui contient une `string` et l’écrire
+- Créer une variable qui contient un `int` et l’écrire
+- Créer une variable qui contient un `int` et écrire le résultat de cette variable soustrait à `42`
+- Créer une variable qui contient une `string` et écrire le résultat de cette variable ajouté à `"OK"`
 
 ---
 
@@ -145,6 +145,6 @@ passe à chacune des trois lignes de l'exemple ci-dessous :
 - Assignez les valeurs respectives 3, 5, 7 à trois variables a, b, c.
     - Effectuez l'opération a - b/c.
 Notes:
-Montrer `var +=1` et `var = var - 1`
+Montrez `var +=1` et `var = var - 1`
 
-Expliquer `+= -= /= *=`
+Expliquez `+= -= /= *=`
