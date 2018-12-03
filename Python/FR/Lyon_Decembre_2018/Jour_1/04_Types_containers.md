@@ -244,5 +244,5 @@ Une string est en faite une liste déguisée! La preuve:
 
 ### Exercices
 
-- hackinscience.com
+- hackinscience.org
     - Exercices 1, 2, 3, 7, 9, 11, 12, 14, 17
