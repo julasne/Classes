@@ -2,9 +2,9 @@
 
 ---
 
-### les listes (`list`)
+### Les listes (`list`)
 
-Variable dans laquelle on peux mettre plusieurs variables ou valeurs
+Variable dans laquelle on peut mettre plusieurs variables ou valeurs
 
 ```bash
 >>> liste = []
@@ -17,7 +17,7 @@ Variable dans laquelle on peux mettre plusieurs variables ou valeurs
 
 ---
 
-### Ajouter une valeur a une liste
+### Ajouter une valeur à une liste
 
 La méthode `append()`
 
@@ -37,7 +37,7 @@ La méthode `append()`
 
 ### Afficher une seule valeur d'une liste
 
-Une liste peut être accédée g race a son index. Il commence a `0`:
+Une liste peut être accédée grâce à son index. Il commence à `0`:
 ```bash
 >>> liste = ["a","d","m"]
 >>> liste[0]
@@ -58,7 +58,7 @@ Il est d'ailleurs possible de modifier une valeur avec son index
 
 ### Supprimer une entrée de la liste
 
-Il est parfois nécessaire de supprimer une entrée de la liste a partir de son index. Pour cela vous pouvez utiliser la fonction del .
+Il est parfois nécessaire de supprimer une entrée de la liste àa partir de son index. Pour cela vous pouvez utiliser la fonction del .
 
 ```bash
 >>> liste = ["a", "b", "c"]
@@ -104,7 +104,7 @@ Il est possible de compter le nombre d'items d'une liste avec la fonction len .
 
 ### Compter le nombre d’occurrences d'une valeur
 
-Pour connaitre le nombre d’occurrences d'une valeur dans une liste, vous pouvez utiliser la méthode count .
+Pour connaître le nombre d’occurrences d'une valeur dans une liste, vous pouvez utiliser la méthode count .
 
 ```
 >>> liste = ["a","a","a","b","c","c"]
@@ -118,7 +118,7 @@ Pour connaitre le nombre d’occurrences d'une valeur dans une liste, vous pouve
 
 ### Trouver l'index d'une valeur
 
-La méthode index vous permet de connaitre la position de l'item cherché.
+La méthode index vous permet de connaître la position de l'item cherché.
 
 ```
 >>> liste = ["a","a","a","b","c","c"]
@@ -170,7 +170,7 @@ True
 False
 ```
 
-<sub>Hint: La nous servira plus tard pour les conditions</sub>
+<sub>Hint: Cela nous servira plus tard pour les conditions</sub>
 
 ---
 
@@ -228,7 +228,7 @@ Ce qui peut être utile pour initialiser une liste:
 
 ### Et les strings dans tout ça ?
 
-Une string est en faite une liste déguisée! La preuve:
+Une string est en fait une liste déguisée! La preuve:
 ```bash
 >>> chaine = "Hello"
 >>> chaine[0]
