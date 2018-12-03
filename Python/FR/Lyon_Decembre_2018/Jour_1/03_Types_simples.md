@@ -2,7 +2,7 @@
 
 ---
 
-### Quels types de variables connaissez vous ?
+### Quels types de variables connaissez-vous ?
 
 - `int`
 - `str`
