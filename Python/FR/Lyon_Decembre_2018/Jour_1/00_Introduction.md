@@ -41,7 +41,7 @@ C'est un planning très raccourci. Il y a au total 23 modules parmi lesquels nou
 
 - Petit partie théorique
   - découvre une nouvelle notion
-- Exercices pratique
+- Exercices pratiques
 
 ---
 
