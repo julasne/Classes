@@ -5,7 +5,7 @@
 ### Un dict, kesako ?
 
 Note:
-Un dictionnaire en python est une sorte de liste mais au lieu d'utiliser des index , on utilise des clés , c'est à dire des valeurs autres que numériques.
+Un dictionnaire en python est une sorte de liste mais au lieu d'utiliser des index, on utilise des clés, c'est à dire des valeurs autres que numériques.
 
 ---
 
@@ -16,7 +16,7 @@ Un dictionnaire en python est une sorte de liste mais au lieu d'utiliser des ind
 ```
 
 Note:
-Pour initialiser un dictionnaire , on utile la syntaxe suivante:
+Pour initialiser un dictionnaire , on utilise la syntaxe suivante:
 
 ---
 
@@ -128,12 +128,12 @@ Pour récupérer les clés et les valeurs en même temps, on utilise la méthode
 
 ### Exercises
 
-- Faire un script python qui ajoute une entree a un dictionnaire
+- Faire un script python qui ajoute une entrée à un dictionnaire
     - Dict de depart : `{0: 10, 1: 20}`
     - Resultat attendu : `{0: 10, 1: 20, 2: 30}`
 - Faire un script python qui rassemble trois dictionnaires dans un seul
-- Faire un script Python qui verifie si une cle est deja dans un dictionnaire
-- Faire un script Python qui itere a travers le dictionnaire et ecrit les cles et valeurs lignes par ligne
-- Faire un script Python qui supprime une entree d'un dictionnaire
+- Faire un script Python qui vérifie si une clé est déjà dans un dictionnaire
+- Faire un script Python qui itère à travers le dictionnaire et écrit les clés et valeurs lignes par ligne
+- Faire un script Python qui supprime une entrée d'un dictionnaire
 - Script qui supprime les duplicats
-- Scripts qui verifie si le dict est vide
+- Scripts qui vérifie si le dict est vide
