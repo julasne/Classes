@@ -18,7 +18,7 @@ Et vous ?
 
 Prénom age rôle déjà développé ?
 
-N'hésitez pas a me poser des questions n'importe quand.
+N'hésitez pas à me poser des questions n'importe quand.
 
 
 Vous n’êtes que 4, donc pas besoin de lever la main
@@ -37,11 +37,11 @@ C'est un planning très raccourci. Il y a au total 23 modules parmi lesquels nou
 
 ---
 
-## Comment nous allons travailler
+## Comment allons-nous travailler ?
 
-- Petit partie théorique
-  - découvre une nouvelle notion
-- Exercices pratique
+- Petite partie théorique
+  - découvrir une nouvelle notion
+- Exercices pratiques
 
 ---
 

@@ -27,7 +27,7 @@ Que se passe-t-il si la valeur était inférieure à 5?
 Note:
  Cette notion est l'une des plus importante en programmation. L'idée est de dire que si telle variable a telle valeur alors faire cela sinon cela.
 
-Prenons un exemple, on va donner une valeur à une variable et si cette valeur est supérieur à 5, alors on va incrémenter la valeur de 1 
+Prenons un exemple: on va donner une valeur à une variable et si cette valeur est supérieur à 5, alors on va incrémenter la valeur de 1 
 
 On remarque que si la condition n'est pas remplie, les instructions dans la structure conditionnelle sont ignorées.
 
@@ -60,7 +60,7 @@ Changeons uniquement la valeur de la variable a :
 ```
 
 Note:
- Il est possible de donner des instructions quelque soit les choix possibles avec le mot clé else . 
+ Il est possible de donner des instructions quels que soient les choix possibles avec le mot clé else . 
 
 ---
 
@@ -82,7 +82,7 @@ Note:
 Note:
 Il est possible d'ajouter autant de conditions précises que l'on souhaite en ajoutant le mot clé elif , contraction de "else" et "if", qu'on pourrait traduire par "sinon". 
  
- Dans cet exemple, on a repris le même que les précédent mais nous avons ajouté la conditions "Si la valeur est égale à 5" que se passe-t-il? Et bien on ajoute 1000.
+ Dans cet exemple, on a repris le même que les précédents mais nous avons ajouté la condition "Si la valeur est égale à 5" que se passe-t-il? Et bien on ajoute 1000.
 
 ---
 
@@ -204,4 +204,4 @@ etc. (S'arrêter à 16384 euros)
 
 ### Exercices
 
-- Écrivez un programme qui affiche une suite de 12 nombres dont chaque terme soit égal au triple du terme précédent.
+- Écrivez un programme qui affiche une suite de 12 nombres dont chaque terme est égal au triple du terme précédent.
